@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>first on ExampleSite</title>
+    <title>first on KadeBlog</title>
     <link>https://prefect12.github.io/tags/first/</link>
-    <description>Recent content in first on ExampleSite</description>
+    <description>Recent content in first on KadeBlog</description>
     <image>
-      <title>ExampleSite</title>
+      <title>KadeBlog</title>
       <url>https://prefect12.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://prefect12.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
@@ -14,10 +14,10 @@
     <lastBuildDate>Fri, 12 Jan 2024 16:32:37 +0800</lastBuildDate>
     <atom:link href="https://prefect12.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>New</title>
-      <link>https://prefect12.github.io/post/new/</link>
+      <title>My 2023</title>
+      <link>https://prefect12.github.io/post/my-2023/</link>
       <pubDate>Fri, 12 Jan 2024 16:32:37 +0800</pubDate>
-      <guid>https://prefect12.github.io/post/new/</guid>
+      <guid>https://prefect12.github.io/post/my-2023/</guid>
       <description>Desc Text.</description>
     </item>
   </channel>
